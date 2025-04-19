@@ -8,13 +8,13 @@
 body {
     font-family: sans-serif; /* Choose a modern font */
     line-height: 1.6;
-    background-color: #f4f4f4; /* Light background */
-    color: #333; /* Dark text */
+    background-color: #040404; /* Dark background */
+    color: #f4f4f4; /* Light text */
 }
 
 /* Header */
 header {
-    background-color: #fff;
+    background-color: #000000;
     padding: 1rem 2rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: sticky; /* Optional: Keep header fixed on scroll */
@@ -33,7 +33,7 @@ nav {
 .logo {
     font-size: 1.5rem;
     font-weight: bold;
-    color: #007bff; /* A modern primary color */
+    color: white; /* A modern primary color */
 }
 
 nav ul {
@@ -44,7 +44,7 @@ nav ul {
 
 nav a {
     text-decoration: none;
-    color: #555;
+    color: white;
     transition: color 0.3s ease;
 }
 
