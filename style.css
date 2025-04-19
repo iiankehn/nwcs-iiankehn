@@ -99,8 +99,8 @@ main {
 }
 
 .primary-button {
-    background-color: #007bff;
-    color: #fff;
+    background-color: #333;
+    color: white;
     border: none;
     padding: 1rem 2rem;
     border-radius: 5px;
@@ -111,7 +111,8 @@ main {
 }
 
 .primary-button:hover {
-    background-color: #0056b3;
+    background-color: #0072bc;
+    color: white;
 }
 
 .hero-image {
